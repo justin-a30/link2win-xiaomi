@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=xiaomi-link2win
+name=Xiaomi - Link to Windows
+version=v1.0
+versionCode=1
+author=Bobert
+description=This module aims to enable Link to Windows with full features for some Xiaomi/Redmi devices.
